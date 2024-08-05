@@ -1,0 +1,16 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/like/[movieId]/route": "app/api/like/[movieId]/route.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/api/movies/search/route": "app/api/movies/search/route.js",
+  "/api/signup/route": "app/api/signup/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/[locale]/user/profile/page": "app/[locale]/user/profile/page.js",
+  "/[locale]/series/page": "app/[locale]/series/page.js",
+  "/[locale]/signup/page": "app/[locale]/signup/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/[locale]/movies/[id]/page": "app/[locale]/movies/[id]/page.js",
+  "/[locale]/movies/(search)/genres/[id]/page": "app/[locale]/movies/(search)/genres/[id]/page.js",
+  "/[locale]/movies/(search)/page": "app/[locale]/movies/(search)/page.js"
+}

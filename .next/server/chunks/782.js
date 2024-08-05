@@ -1,0 +1,1 @@
+"use strict";exports.id=782,exports.ids=[782],exports.modules={42782:e=>{e.exports=JSON.parse('{"popular":{"title":"Les plus populaires"},"genres":{"title":"Parcourir par genres"}}')}};
